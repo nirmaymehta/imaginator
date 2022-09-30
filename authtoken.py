@@ -1,0 +1,1 @@
+auth_token = #Your Auth Token from hugging face website
